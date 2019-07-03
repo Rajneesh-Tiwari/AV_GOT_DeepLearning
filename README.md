@@ -8,5 +8,5 @@ The repo includes most models tried on AV Computer vision hackathon. Pointers:
 3. Focal loss works best for training instead of CrossEntropy loss
 
 Final Standing:
-Public LB: 7th, Private LB: 11th
+Public LB: 5th, Private LB: 7th
 
